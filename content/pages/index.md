@@ -55,7 +55,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: see what i've been up to
+    subtitle: See what i've been up to
     posts_number: 3
     col_number: three
     actions:
