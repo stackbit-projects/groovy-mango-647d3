@@ -60,14 +60,11 @@
 
 .post-about {
   border: 0;
-    display: block;
-    margin-bottom: 1.66667em;
-    margin-top: 1.66667em;
+  display: inline-block;
+  margin-bottom: 1.66667em;
 
   img {
-    width: 500%;
-    height: 500px;
-    text-align: center;
+    max-width: 100%;
   }
 }
 
