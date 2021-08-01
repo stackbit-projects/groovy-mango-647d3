@@ -29,7 +29,7 @@ sections:
   - section_id: services
     type: section_grid
     title: What I Do
-    subtitle: What im capable of
+    subtitle: what im capable of
     col_number: two
     is_numbered: true
     grid_items:
