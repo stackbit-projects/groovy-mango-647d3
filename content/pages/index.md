@@ -64,7 +64,7 @@ sections:
         style: button
 seo:
   title: mail.ism
-  description: The preview of the Exto theme
+  description: ismail's web
   extra:
     - name: 'og:type'
       value: website
