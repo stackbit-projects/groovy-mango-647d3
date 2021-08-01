@@ -68,5 +68,6 @@
             }
         ]
     },
-    "domain": "https://mail-ism.netlify.app"
+    "domain": "https://mail-ism.netlify.app",
+    "favicon": "/images/japanese-word.png"
 }
