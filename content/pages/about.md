@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Curious?.
-image: /images/MOSHED-2021-7-25-13-15-9.jpg
+image: /images/moshed-2021-7-25-13-15-9.jpg
 image_alt: myself
 seo:
   title: About Me
