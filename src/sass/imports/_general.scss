@@ -315,6 +315,13 @@ video {
 
 // Images
 img {
-  max-width: 60%;
+  max-width: 100%;
   height: auto;
+}
+
+/* For width 400px and larger: */
+@media only screen and (min-width: 400px) {
+  body {
+    background-image: url('img_flowers.jpg');
+  }
 }
