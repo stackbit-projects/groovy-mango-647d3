@@ -1,10 +1,10 @@
 ---
-title: About Us
+title: About Me
 subtitle: This is a short page about us and our work.
 image: /images/MOSHED-2021-7-25-13-15-9.jpg
 image_alt: A man taking a picture
 seo:
-  title: About Us
+  title: About Me
   description: This is the about us page
   extra:
     - name: 'og:type'
