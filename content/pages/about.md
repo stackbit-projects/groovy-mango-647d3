@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: This is a short page about us and our work.
-image: images/about.jpg
+image: /images/MOSHED-2021-7-25-13-15-9.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
