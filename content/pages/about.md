@@ -2,7 +2,7 @@
 title: About Me
 subtitle: Curious?.
 image: /images/MOSHED-2021-7-25-13-15-9.jpg
-image_alt: A man taking a picture
+image_alt: myself
 seo:
   title: About Me
   description: This is the about us page
